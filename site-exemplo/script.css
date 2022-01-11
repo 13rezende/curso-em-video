@@ -13,7 +13,10 @@ main{
     box-shadow: 3ppx 3px 5px rgba(
          rgba(11, 224, 11, 0.26));
 }
-
+img.lado{
+    float: right;
+    text-decoration: none;
+}
 
 #trocar{
     width: 50 px;
